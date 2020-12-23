@@ -332,7 +332,7 @@ main a:hover{
 
 
 footer{
-    background: #252525;
+    background: #045221;
     color: #f3f3f3;
     padding: 30px;
 }
@@ -359,7 +359,7 @@ footer > p{
 
 .footer-right i{
     font-size: 1.8rem;
-    color: #808080;
+    color: #71dab7;
 }
 
 .footer-right input{
@@ -367,7 +367,7 @@ footer > p{
     border: none;
     background: transparent;
     outline: none;
-    color: #808080;
+    color: #30974a;
     padding-right: 10px;
     width: 100%;
 }
@@ -378,7 +378,7 @@ footer > p{
     justify-content: start;
     width: 200px;
     padding: 10px 0;
-    border-bottom: 1.6px solid #808080;
+    border-bottom: 1.6px solid #30974a;
 }
 
 
