@@ -40,7 +40,7 @@ hr{
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    background: #70a6bb;
+    background: #aa7e7e;
     color: #fff;
     padding: 20px 30px;
 }
@@ -445,7 +445,7 @@ footer > p{
 
     .navigation-container{
         display: flex;
-        background: #252525;
+        background: #361e1e;
         align-items: center;
         flex-wrap: wrap;
     }
